@@ -1,4 +1,9 @@
 ## Sarah Luo's GitHub Page
+# Sarah Luo's First CS193 Homework
+
+- I love the coloful CS193 slides!
+- I enjoy how the instructors want us to succeed
+- I like how the class is fun and not boring 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +20,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- I love ramen
-- I love grass jelly
+- I love the coloful CS193 slides!
+- I enjoy how the instructors want us to succeed
+- I like how the class is fun and not boring 
 
 1. Numbered
 2. List
