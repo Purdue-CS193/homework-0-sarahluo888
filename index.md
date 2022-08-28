@@ -1,4 +1,3 @@
-## Sarah Luo's GitHub Page
 # Sarah Luo's First CS193 Homework
 
 - I love the coloful CS193 slides!
